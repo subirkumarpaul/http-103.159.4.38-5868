@@ -113,8 +113,28 @@ http://103.159.4.38:5868/ENTEMENT-9/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SPORTS 2
 http://103.159.4.38:5868/ENTEMENT-10/tracks-v1a1/mono.m3u8
 
-
-
+#EXTINF:-1,MUSIC 1
+http://103.159.4.38:5868/MUSIC-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MUSIC 2
+http://103.159.4.38:5868/MUSIC-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MUSIC 3
+http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MUSIC 4
+http://103.159.4.38:5868/MUSIC-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MUSIC 5
+http://103.159.4.38:5868/MUSIC-5/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MUSIC 6
+http://103.159.4.38:5868/MUSIC-6/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MUSIC 7
+http://103.159.4.38:5868/MUSIC-7/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MUSIC 8
+http://103.159.4.38:5868/MUSIC-8/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MUSIC 9
+http://103.159.4.38:5868/MUSIC-9/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MUSIC 10
+http://103.159.4.38:5868/MUSIC-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MUSIC 11
+http://103.159.4.38:5868/MUSIC-11/tracks-v1a1/mono.m3u8
 
 
 
