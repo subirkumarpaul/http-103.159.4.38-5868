@@ -133,77 +133,77 @@ http://103.159.4.38:5868/MUSIC-9/tracks-v1a1/mono.m3u8
 http://103.159.4.38:5868/MUSIC-10/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MUSIC 11
 http://103.159.4.38:5868/MUSIC-11/tracks-v1a1/mono.m3u8
-#EXTINF:-1,masthi music
+#EXTINF:-1,Masthi Music
 http://103.161.2.142/hls/9xm.m3u8
-#EXTINF:-1,atn
+#EXTINF:-1,ATN Bangla
 http://103.161.2.142/hls/atn.m3u8
-#EXTINF:-1,axn
+#EXTINF:-1,AXN
 http://103.161.2.142/hls/axn.m3u8
-#EXTINF:-1,banglavision
+#EXTINF:-1,Banglavision
 http://103.161.2.142/hls/banglavision.m3u8
-#EXTINF:-1,bbcworld
+#EXTINF:-1,BBC World
 http://103.161.2.142/hls/bbcworld.m3u8
-#EXTINF:-1,boishakhi
+#EXTINF:-1,Boishakhi TV
 http://103.161.2.142/hls/boishakhi.m3u8
-#EXTINF:-1,channel24
+#EXTINF:-1,Channel 24
 http://103.161.2.142/hls/channel24.m3u8
-#EXTINF:-1,channel9
+#EXTINF:-1,Channel 9
 http://103.161.2.142/hls/channel9.m3u8
-#EXTINF:-1,channeli
+#EXTINF:-1,Channel I
 http://103.161.2.142/hls/channeli.m3u8
-#EXTINF:-1,cn
+#EXTINF:-1,CN
 http://103.161.2.142/hls/cn.m3u8
-#EXTINF:-1,colorsbangla
+#EXTINF:-1,Colors Bangla
 http://103.161.2.142/hls/colorsbangla.m3u8
-#EXTINF:-1,colorscineplex
+#EXTINF:-1,Colors Cineplex
 http://103.161.2.142/hls/colorscineplex.m3u8
-#EXTINF:-1,discovery
+#EXTINF:-1,Discovery
 http://103.161.2.142/hls/discovery.m3u8
-#EXTINF:-1,duronto
+#EXTINF:-1,Duronto TV
 http://103.161.2.142/hls/duronto.m3u8
-#EXTINF:-1,enterr10
+#EXTINF:-1,Enter10
 http://103.161.2.142/hls/enterr10.m3u8
 #EXTINF:-1,etv
 http://103.161.2.142/hls/etv.m3u8
-#EXTINF:-1,jalshamovies
+#EXTINF:-1,Jalsha Movies
 http://103.161.2.142/hls/jalshamovies.m3u8
-#EXTINF:-1,jamuna
+#EXTINF:-1,Jamuna TV
 http://103.161.2.142/hls/jamuna.m3u8
-#EXTINF:-1,nagoriktv
+#EXTINF:-1,Nagorik TV
 http://103.161.2.142/hls/nagoriktv.m3u8
-#EXTINF:-1,news24
+#EXTINF:-1,News 24
 http://103.161.2.142/hls/news24.m3u8
-#EXTINF:-1,nexus
+#EXTINF:-1,Nexus TV
 http://103.161.2.142/hls/nexus.m3u8
-#EXTINF:-1,ntv
+#EXTINF:-1,Ntv
 http://103.161.2.142/hls/ntv.m3u8
-#EXTINF:-1,rtv
+#EXTINF:-1,Rtv
 http://103.161.2.142/hls/rtv.m3u8
-#EXTINF:-1,satv
+#EXTINF:-1,SATV
 http://103.161.2.142/hls/satv.m3u8
-#EXTINF:-1,somoy
+#EXTINF:-1,Somoy TV
 http://103.161.2.142/hls/somoy.m3u8
-#EXTINF:-1,sonyyay
+#EXTINF:-1,Sony Yay
 http://103.161.2.142/hls/sonyyay.m3u8
-#EXTINF:-1,sonymax
+#EXTINF:-1,Sony Max
 http://103.161.2.142/hls/sonymax.m3u8
-#EXTINF:-1,sonypix
+#EXTINF:-1,Sony Pix
 http://103.161.2.142/hls/sonypixhd.m3u8
-#EXTINF:-1,stargold
+#EXTINF:-1,Star Gold
 http://103.161.2.142/hls/stargold.m3u8
-#EXTINF:-1,starmovies
+#EXTINF:-1,Star Movies
 http://103.161.2.142/hls/starmovies.m3u8
-#EXTINF:-1,tlc
+#EXTINF:-1,TLC
 http://103.161.2.142/hls/tlc.m3u8
-#EXTINF:-1,travelxp
+#EXTINF:-1,Travel XP
 http://103.161.2.142/hls/travelxp.m3u8
-#EXTINF:-1,wild
+#EXTINF:-1,NAT GEO Wild
 http://103.161.2.142/hls/wild.m3u8
-#EXTINF:-1,zeebangla
+#EXTINF:-1,Zee Bangla
 http://103.161.2.142/hls/zeebanglahd.m3u8
-#EXTINF:-1,zeecinema
+#EXTINF:-1,Zee Cinema
 http://103.161.2.142/hls/zeecinemahd.m3u8
-#EXTINF:-1,zoom
+#EXTINF:-1,Zoom
 http://103.161.2.142/hls/zoom.m3u8
 
 
