@@ -131,8 +131,8 @@ http://103.159.4.38:5868/MUSIC-8/tracks-v1a1/mono.m3u8
 http://103.159.4.38:5868/MUSIC-9/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MUSIC 10
 http://103.159.4.38:5868/MUSIC-10/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MUSIC 11
-http://103.159.4.38:5868/MUSIC-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Iptv 1
+http://103.84.253.5/live/0/index.m3u8
 #EXTINF:-1,Masthi Music
 http://103.161.2.142/hls/9xm.m3u8
 #EXTINF:-1,ATN Bangla
