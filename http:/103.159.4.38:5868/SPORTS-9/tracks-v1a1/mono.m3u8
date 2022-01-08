@@ -135,6 +135,8 @@ http://103.159.4.38:5868/MUSIC-10/tracks-v1a1/mono.m3u8
 http://103.84.253.5/live/0/index.m3u8
 #EXTINF:-1,Gazi TV
 http://103.70.140.27:8080/hls/gtv.m3u8
+#EXTINF:-1,Duronto TV
+http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1,Masthi Music
 http://103.161.2.142/hls/9xm.m3u8
 #EXTINF:-1,ATN Bangla
